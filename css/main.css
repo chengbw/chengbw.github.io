@@ -2802,3 +2802,17 @@ header.header {
     padding: 10px 12px;
   }
 }
+h2 {
+  color: #e5b567;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+h3 {
+  color: #e5b567;
+  font-size: 1.3em;
+  font-weight: normal;
+}
+h4 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
