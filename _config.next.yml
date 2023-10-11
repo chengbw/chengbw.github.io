@@ -203,7 +203,7 @@ language_switcher: false
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
-  #since: 2021
+  since: "2023"
 
   # Icon between year and copyright info.
   icon:
@@ -223,8 +223,8 @@ footer:
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
-    enable: false
-    icp:
+    enable: true
+    icp: "豫ICP备2022000357号"
     # The digit in the num of gongan beian.
     gongan_id:
     # The full num of gongan beian.
@@ -624,7 +624,7 @@ quicklink:
 # Use Animate.css to animate everything.
 # For more information: https://animate.style
 motion:
-  enable: true
+  enable: false
   async: false
   transition:
     # All available transition variants: https://theme-next.js.org/animate/
